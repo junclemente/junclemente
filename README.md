@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jun Clemente
+# 👋 Hi, I'm Jun
 
 🎓 **M.S. in Applied Data Science (MS-ADS)** — *University of San Diego*  
 💡 Passionate about using data to solve real-world problems and make insights actionable.

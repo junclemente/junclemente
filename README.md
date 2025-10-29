@@ -20,7 +20,6 @@ Python · R · SQL · Bash · Pandas · Scikit-Learn · Seaborn · Tableau · AW
 ### ⚡ Fun Facts
 💻 Run my own Unraid + Ubuntu servers (with an RTX 3090)  
 📷 Into astrophotography, cycling, and DIY Raspberry Pi builds  
-🎵 Creator of *deskpi-karaoke* 🎤
 
 ---
 

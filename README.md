@@ -23,4 +23,9 @@ Python · R · SQL · Bash · Pandas · Scikit-Learn · Seaborn · Tableau · AW
 
 ---
 
+### 📚 Resources and Community
+- Curated setup guides and workflow notes developed to support students USD's MS-ADS program:
+  [USD-MSADS](https://github.com/junclemente/USD-MSADS)
+
+
 📫 [LinkedIn](https://www.linkedin.com/in/junclemente/) · 📍 San Diego, CA

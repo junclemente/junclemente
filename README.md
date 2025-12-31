@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Jun
 
 🎓 **M.S. in Applied Data Science (MS-ADS)** — *University of San Diego*  
-💡 Turning data into actionable insights through Python, R, and storytelling.
+💡 Turning complex data into actionable insights through applied modeling, engineering, and storytelling. 
 
 ---
 
 ### 🧠 What I Do
 - 🧩 Build practical tools for **EDA** → [**JCDS**](https://github.com/junclemente/jcds)  
-- 📊 Develop **ML models** for education, health, and workplace analytics  
+- 📊 Develop applied **ML models** through research and project-based work across education, healthcare, and workplace analytics  
 - ⚙️ Work across **Python**, **R**, and **Cloud** (AWS, SageMaker, GCP)
 
 ---
@@ -18,7 +18,7 @@ Python · R · SQL · Bash · Pandas · Scikit-Learn · Seaborn · Tableau · AW
 ---
 
 ### ⚡ Fun Facts
-💻 Run my own Unraid + Ubuntu servers (with an RTX 3090)  
+💻 Run my own Unraid + Ubuntu servers, including a GPU-enabled (RTX 3090) setup for data science experimentation and AI workloads 
 📷 Into astrophotography, cycling, and DIY Raspberry Pi builds  
 
 ---
